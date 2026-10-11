@@ -1,0 +1,7 @@
+flask
+tweepy
+pandas
+nltk
+textblob
+python-dotenv
+gunicorn
